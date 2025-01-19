@@ -30,7 +30,8 @@ The dataset includes the following attributes:
 4. Visualization of model performance and prediction trends.
 5. Interactive Power BI Dashboard is developed to analyze model performance and compare metrics such as prediction accuracy, error rates, and trends for LSTM, RNN, and Random Forest Regressor models, providing insightful visualizations for better understanding.
 
-## Dashboard images![dashboard_page1](https://github.com/user-attachments/assets/f8af2fc2-b575-4ea6-a379-929642fe4183)
+## Dashboard images
 
+<img width="323" alt="dashboard_page1" src="https://github.com/user-attachments/assets/f8af2fc2-b575-4ea6-a379-929642fe4183">
 
 
