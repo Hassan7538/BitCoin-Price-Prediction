@@ -33,5 +33,6 @@ The dataset includes the following attributes:
 ## Dashboard images
 
 <img width="323" alt="dashboard_page1" src="https://github.com/user-attachments/assets/f8af2fc2-b575-4ea6-a379-929642fe4183">
-
+<img width="323" alt="dashboard_page2" src="https://github.com/user-attachments/assets/d68d9cb2-c4ed-492b-90f9-f72a09198153">
+<img width="323" alt="dashboard_page2" src="https://github.com/user-attachments/assets/cd25d379-f464-4a98-83ca-a7bd2ecbf76a">
 
